@@ -1,7 +1,7 @@
 # To Be Read app
 creating an idea for a reading app similar to Goodreads
 
-This idea started as a fun idea to redesign the Goodreads app for fun. After taking a [UX Research and Strategy course through Designlab](https://trydesignlab.com/ux-design-course/), I decided to make it as part of my project. Goodreads is one of my favorite apps. I love reading so I'm constantly documenting what I read and learning about what others are reading. I started with research, as any project should.
+This idea started as a fun idea to redesign the Goodreads app for fun. After taking a [UX Research and Strategy course through Designlab](https://trydesignlab.com/ux-design-course/), I decided to make it as part of my project. Goodreads is one of my favorite apps. I love reading so I'm constantly documenting what I read and learning about what others are reading. I started with research, as any project should. The idea for the app is being able to find recommended books based on previous books you've read. You can also explore current popular reads especially among your friends. I've also debated about creating a real-time chat feature to build conversations around certain books. Book nerds always love talking about books even with a stranger.
 
 ## Research
 - [Research Plan](https://docs.google.com/document/d/1NA5L6EZ4SBkbPF0QCFwfjjmmk2r7hYR9iKKw7GYfFGk/edit?usp=sharing)
